@@ -4,3 +4,4 @@ We are docked in Spacestation, waiting for slinshot to mars.
 We are ready to land on the mars.
 The rover is exploring on the mars.
 The rover is scooping soil on the mars.
+The rover fall asleep at night.
