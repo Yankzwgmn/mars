@@ -2,5 +2,5 @@ Git learning.
 Elon Musk is planning to have a trip to Mars.
 We are docked in Spacestation, waiting for slinshot to mars.
 We are ready to land on the mars.
-
+The rover is exploring on the mars.
 
